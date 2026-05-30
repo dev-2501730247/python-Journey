@@ -1,4 +1,4 @@
-# puthon-Journey
+# python-Journey
 the-art-of-mastering-python
 
 My coding journey feom sem-2 onwards 
